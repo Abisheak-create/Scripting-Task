@@ -1,0 +1,7 @@
+Hello there
+This is a sample file
+We will give some examples
+welcome to Linux scripting
+Let’s learning it a try welcome
+Here is another welcome message to learning an example
+Enjoy learning Bash scripting
